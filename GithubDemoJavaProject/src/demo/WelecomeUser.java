@@ -6,6 +6,13 @@ public class WelecomeUser {
 		
 		// Code added by Psycho
 		System.out.println("Welcome to Github noob");
+		
+		// Code added by Baddy
+		System.out.println("2nd code");
+		
+		
+		
+		
 			
 	}
 
